@@ -87,3 +87,4 @@ git push origin lab1-entrega
 ```
 
 Al salir: cierre su sesión de GitHub en el navegador y borre sus credenciales del computador de la sala.
+https://docs.google.com/document/d/17kF_44CQsr2CMFZwK9pg4myMVARuqThNAgcML_TJU7M/edit?usp=sharing
